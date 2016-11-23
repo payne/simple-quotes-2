@@ -1,1 +1,11 @@
+This is simple quotes component
+{{quote.text}} is quote number {{number.value}}
+<button {{action 'nextQuote'}}>Next</button>
+
+<ol>
+{{#each quotes as |q|}}
+<li>{{q.text}}</li>
+{{/each}}
+</ol>
+
 {{yield}}
