@@ -19,6 +19,18 @@ quotes: {data: [
     since there is less cleaning up to do afterward.`,
   author: `Kurt Vonnegut`},
   {id: 5, text: `Everything was beautiful and nothing hurt.`,
+  author: `Kurt Vonnegut`},
+  {id: 5, text: `A purpose of human life, no matter who is controlling it,
+    is to love whoever is around to be loved.`,
+  author: `Kurt Vonnegut`},
+  {id: 5, text: `Here we are, trapped in the amber of the moment. There is no why.`,
+  author: `Kurt Vonnegut`},
+  {id: 5, text: `True terror is to wake up one morning and discover that your high school class is running the country.`,
+  author: `Kurt Vonnegut`},
+  {id: 5, text: `Maturity is a bitter disappointment for which no remedy exists,
+    unless laughter can be said to remedy anything.`,
+  author: `Kurt Vonnegut`},
+  {id: 5, text: `Everything was beautiful and nothing hurt.`,
   author: `Kurt Vonnegut`}
 ]},
 quote: {id: 0, text: `I urge you to please notice when you are happy,
@@ -28,7 +40,7 @@ quote: {id: 0, text: `I urge you to please notice when you are happy,
 number: {value: 0},
 actions: {
   nextQuote() {
-    console.log('In nextQuote')
+    console.log('In nextQuote');
     var number = Ember.get(this.number, 'value')+1;
     var data = Ember.get(this.quotes, 'data');
     console.log(data.length);
