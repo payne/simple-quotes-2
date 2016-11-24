@@ -1,11 +1,4 @@
-This is simple quotes component
-{{quote.text}} is quote number {{number.value}}
+<p>{{quote.text}}</p>
+<p>
 <button {{action 'nextQuote'}}>Next</button>
-
-<ol>
-{{#each quotes as |q|}}
-<li>{{q.text}}</li>
-{{/each}}
-</ol>
-
-{{yield}}
+</p>
