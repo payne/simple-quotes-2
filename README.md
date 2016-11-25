@@ -1,8 +1,12 @@
 # Simple-quotes-2
 
-http://simple-quotes-2-payne.c9users.io:8080
+1. Always up: http://mattpayne.org/simple-quotes-2/
+1. sometimes online: http://simple-quotes-2-payne.c9users.io:8080
+1. Trying to get a clue: https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+1. For my iPhone5: http://stackoverflow.com/questions/12539697/iphone-5-css-media-query
+1. https://github.com/poetic/ember-cli-github-pages
+   1. ember github-pages:commit --message "comment"
 
-https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.

@@ -12,7 +12,6 @@ and (max-device-width : 568px) {
   }
 }
 
- 
 .Site {
        display: flex;
       /*min-height: 60vh;*/
