@@ -1,5 +1,9 @@
 # Simple-quotes-2
 
+http://simple-quotes-2-payne.c9users.io:8080
+
+https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
